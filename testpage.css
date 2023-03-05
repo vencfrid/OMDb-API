@@ -1,0 +1,77 @@
+html, body
+{
+    	height: 130%;
+    	width: 100%;
+}
+#tablehref 
+{
+    	margin-left: auto;
+    	margin-right: auto;
+    	border: none;
+    	height: 100%;
+    	width: 100%;
+	background-color: black;
+}
+	#tablehref button
+	{
+    		margin-left: auto;
+    		margin-right: auto;
+		background-color: rgb(230,230,230);
+    		color: black;
+		height: 50px;
+    		width: 30%;
+	}
+	
+
+#div1 
+{
+    	
+    	height: 10% ;
+    	color: black;
+    	text-align: center;
+}
+
+#table1
+{
+    	margin-left: auto;
+    	margin-right: auto;
+    	border: none;
+    	height: 100%;
+    	width: 50%;
+}
+
+    	#table1 th, td 
+	{
+      	padding: 15px;
+
+    	}
+    
+   	 #table1 button
+	{
+        	background-color: skyblue;
+        	height: 20px;
+        	width: 100px;
+       	color: white;
+
+    	}
+
+    #TdTable1
+    {
+    		background-color: rgb(230,230,230);
+    		color: black;
+    		width: 50%;
+    }
+#table2, td, th 
+{
+  	border: 1px solid;
+	text-align: center;
+}
+
+#table2 
+{
+  	width: 30%;
+  	border-collapse: collapse;
+	margin-left: auto;
+    	margin-right: auto;
+}
+
