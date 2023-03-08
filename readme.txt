@@ -2,7 +2,7 @@ IC group zadání
 
 Dokummentace
 
-index.php : hlavní stránka pro vyhledávání výsledků přes API
+index.php : hlavní stránka pro vyhledávání výsledků přes API OMDb
 wordcloud.php : stránka pro primitivní verzi wordcloudu
 OMDb_inc.php : soubor který si nabere data přes FORM a vrátí data o vyhledávání
 searchinfo_class: tato classa funguje jako controller pro OMDb vyhledávání. Inherituje sHistory_class
