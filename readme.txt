@@ -1,4 +1,4 @@
-IC group zadání
+
 
 Dokummentace
 
